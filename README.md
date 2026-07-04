@@ -6,7 +6,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI to analy
 
 🚀 Dashboard Preview
 
-Snapshot of Dashboard.png
+https://github.com/Atharva-1525/HR-data-analysis/blob/418e92038e3618ff3254347fc2e66402aaa7f8d4/Snapshot%20of%20Dashboard.png
 
 🎯 Problem Statement
 
