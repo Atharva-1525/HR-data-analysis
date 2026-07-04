@@ -1,15 +1,15 @@
 📊 HR Analytics Dashboard | Power BI
 
-📌 Project Overview
+📌 Project Overview:
 
 This project is an interactive HR Analytics Dashboard built in Power BI to analyze employee attrition and workforce trends. The dashboard provides HR professionals with key insights into employee demographics, salary distribution, department-wise attrition, job roles, and age groups to support data-driven decision making.
 
-🚀 Dashboard Preview
+🚀 Dashboard Preview:
 
 https://github.com/Atharva-1525/HR-data-analysis/blob/418e92038e3618ff3254347fc2e66402aaa7f8d4/Snapshot%20of%20Dashboard.png
 
-🎯 Problem Statement
 
+🎯 Problem Statement:
 Employee attrition is a major challenge for organizations as it impacts productivity, recruitment costs, and business performance. This dashboard aims to identify patterns behind employee attrition by analyzing various factors such as:
 
 Department
@@ -24,7 +24,8 @@ Gender
 
 Years at Company
 
-📈 Key KPIs
+
+📈 Key KPIs :
 
 KPI	Value
 
@@ -38,10 +39,11 @@ Average Age	37 Years
 
 Average Salary	7K
 
-Average Years at Company	7 Years
+Average Years at Company	7 Year
 
 
-📊 Dashboard Features
+
+📊 Dashboard Features:
 
 Employee Overview
 
@@ -62,7 +64,8 @@ Years at Company Insights
 Interactive Filters & Slicers
 
 
-🔍 Key Insights
+
+🔍 Key Insights:
 
 Overall employee attrition rate is 16.1%.
 
@@ -77,7 +80,8 @@ Attrition is slightly higher among male employees.
 The Life Sciences education field contributes the largest share of employee attrition.
 
 
-🛠 Tools & Technologies
+
+🛠 Tools & Technologies:
 
 Power BI
 
@@ -93,7 +97,8 @@ Data Cleaning
 
 Data Visualization
 
-📂 Project Structure
+
+📂 Project Structure:
 
 HR-Analytics-Dashboard/
 
@@ -106,7 +111,8 @@ HR-Analytics-Dashboard/
 ├── README.md
 
 
-📚 Skills Demonstrated
+
+📚 Skills Demonstrated:
 
 Data Cleaning
 
@@ -127,7 +133,8 @@ HR Analytics
 Data Visualization
 
 
-📌 Business Impact
+
+📌 Business Impact:
 
 This dashboard enables HR teams to:
 
@@ -140,6 +147,7 @@ Analyze employee demographics.
 Support workforce planning.
 
 Make data-driven HR decisions.
+
 
 📸 Dashboard Snapshot
 
