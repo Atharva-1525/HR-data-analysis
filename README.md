@@ -11,6 +11,7 @@ https://github.com/Atharva-1525/HR-data-analysis/blob/418e92038e3618ff3254347fc2
 🎯 Problem Statement
 
 Employee attrition is a major challenge for organizations as it impacts productivity, recruitment costs, and business performance. This dashboard aims to identify patterns behind employee attrition by analyzing various factors such as:
+
 Department
 Job Role
 Salary
